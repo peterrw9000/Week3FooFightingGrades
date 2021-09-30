@@ -1,2 +1,3 @@
 ﻿  Source.cpp
+D:\GitHub Files\Week3FooFightingGrades\Week3Assignment\Source.cpp(112,20): warning C4018: '<': signed/unsigned mismatch
   Week3Assignment.vcxproj -> D:\GitHub Files\Week3FooFightingGrades\Week3Assignment\Debug\Week3Assignment.exe
